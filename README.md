@@ -12,5 +12,6 @@ To address this issue, this project aims to build vector embeddings of several m
 
 ## Examples
 
+![resting state MRI](images/example2.png)
 
-
+![comparison with UMAP](images/embeddings1.png)
