@@ -3,7 +3,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-tl;dr: This repo provided implementation of a siamise network for brain connectivity embeddings.
+tl;dr: This repo provides implementation of a siamise neural network for brain connectivity embeddings.
 
 ## Overview
 
