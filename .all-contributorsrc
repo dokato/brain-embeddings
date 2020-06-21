@@ -1,0 +1,28 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "JacobCWBillings",
+      "name": "Jacob Billings",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/37029609?v=4",
+      "profile": "https://github.com/JacobCWBillings",
+      "contributions": [
+        "code",
+        "design",
+        "content",
+        "ideas",
+        "tool"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "brain-embeddings",
+  "projectOwner": "dokato",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
