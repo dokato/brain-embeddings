@@ -7,9 +7,22 @@
   "contributors": [
     {
       "login": "dokato",
-      "name": "dokato",
+      "name": "Dominik Krzemiński",
       "avatar_url": "https://avatars1.githubusercontent.com/u/4547289?v=4",
       "profile": "https://github.com/dokato",
+      "contributions": [
+        "code",
+        "design",
+        "content",
+        "ideas",
+        "tool"
+      ]
+    },
+      {
+      "login": "JacobCWBillings",
+      "name": "Jacob Billings",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/37029609?v=4",
+      "profile": "https://github.com/JacobCWBillings",
       "contributions": [
         "code",
         "design",
